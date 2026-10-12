@@ -1,0 +1,1 @@
+# EUR-JPY-bot.2
